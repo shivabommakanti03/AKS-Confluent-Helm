@@ -19,7 +19,7 @@
   6. Create a Namespace in your cluster.
     ` kubectl create ns <Your NameSpcae>`
   
-## Creatting your Azure Devops Release pipeline
+## Creating your Azure Devops Release pipeline
   1. Navigate to your Azure Devops portal [https://dev.azure.com] and create new project for the release.
   2. Navigate to Repos on left panel and click on Repos and click on import repo and import repo. 
   
