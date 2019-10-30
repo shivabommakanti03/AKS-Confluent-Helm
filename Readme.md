@@ -34,6 +34,8 @@
   5. Close the window and select Artifact and in Artifact select Azure repo which has your code.
   
   ![](pipelinepics/Addrepo.png)
+  
+  
   6. Now,Navigate to Stage1 where it says 1job,3tasks.
   
   7. Select Connection type as Azure Resource Manager (ARM) and authorize it with your subscription
